@@ -1,0 +1,17 @@
+message:
+  success: success
+  failed: failed
+  updated: updated
+  deleted: deleted
+  serviceDown: service-down
+error:
+  validationErrors: 1000
+  noProductError: 1001
+  noProductsAvailableError: 1002
+  lessStockAvailableError: 2000
+  invalidCartIdError: 2001
+  invalidCreditCardDetailsError: 3001
+  invalidUpiDetailsError: 3002
+  bankBalanceLessThanPurchaseAmountError: 3003
+  decodingError: 4002
+  serviceUnavailableError: 5001
