@@ -15,3 +15,5 @@ error:
   bankBalanceLessThanPurchaseAmountError: 3003
   decodingError: 4002
   serviceUnavailableError: 5001
+auditing:
+  admin: ADMIN
