@@ -10,6 +10,7 @@ error:
   noProductsAvailableError: 1002
   lessStockAvailableError: 2000
   invalidCartIdError: 2001
+  invalidOrderNumberError: 2002
   invalidCreditCardDetailsError: 3001
   invalidUpiDetailsError: 3002
   bankBalanceLessThanPurchaseAmountError: 3003
